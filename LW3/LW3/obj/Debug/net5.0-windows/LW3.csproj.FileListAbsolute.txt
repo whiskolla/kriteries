@@ -1,0 +1,38 @@
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\bin\Debug\net5.0-windows\LW3.exe
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\bin\Debug\net5.0-windows\LW3.deps.json
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\bin\Debug\net5.0-windows\LW3.runtimeconfig.json
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\bin\Debug\net5.0-windows\LW3.runtimeconfig.dev.json
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\bin\Debug\net5.0-windows\LW3.dll
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\bin\Debug\net5.0-windows\LW3.pdb
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.csproj.AssemblyReference.cache
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.Form1.resources
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.csproj.GenerateResource.cache
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.AssemblyInfoInputs.cache
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.AssemblyInfo.cs
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.csproj.CoreCompileInputs.cache
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.dll
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\refint\LW3.dll
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.pdb
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.genruntimeconfig.cache
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\ref\LW3.dll
+C:\Users\bfoyb\OneDrive\Desktop\works\LW3\LW3\obj\Debug\net5.0-windows\LW3.Properties.Resources.resources
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\bin\Debug\net5.0-windows\LW3.exe
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\bin\Debug\net5.0-windows\LW3.deps.json
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\bin\Debug\net5.0-windows\LW3.runtimeconfig.json
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\bin\Debug\net5.0-windows\LW3.runtimeconfig.dev.json
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\bin\Debug\net5.0-windows\LW3.dll
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\bin\Debug\net5.0-windows\LW3.pdb
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.csproj.AssemblyReference.cache
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.Form1.resources
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.Properties.Resources.resources
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.csproj.GenerateResource.cache
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.AssemblyInfoInputs.cache
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.AssemblyInfo.cs
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.csproj.CoreCompileInputs.cache
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.dll
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\refint\LW3.dll
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.pdb
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\LW3.genruntimeconfig.cache
+C:\Users\bfoyb\OneDrive\Desktop\учеба 5сем\СЦОИ\LW3\LW3\obj\Debug\net5.0-windows\ref\LW3.dll
